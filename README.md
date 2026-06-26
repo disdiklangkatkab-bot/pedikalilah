@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/logo pedikalilah new.png" width="220">
-
-# PEDIKALILAH
+<img src="logo%20pedikalilah%20new.png" width="220" alt="Logo PEDIKALILAH">
 
 ### Pencegahan Dini Kasus Bullying di Sekolah
 
